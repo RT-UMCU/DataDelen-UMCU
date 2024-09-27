@@ -145,7 +145,7 @@
             "q7_Up to 2 GB",
             "q7_Up to 25 GB"
         ],
-        "description": "DataverseNL is a service for publishing research data. It is the preferred data repository for researchers of the UMC Utrecht to publish datasets of finished parts of studies or research projects. DataverseNL is used by most Dutch universities and other research institutes. It is hosted by DANS (Data Archiving and Networked Services), an institute of the KNAW (Royal Academy of Sciences) and NWO. Dataverse is open source software developed by Harvard University. By making your research data accessible via DataverseNL you meet the requirements of funders and of the UMCU research policy. Other researchers will be able to find your dataset through most commonly used search engines. This allows researchers to use the data for new research and makes published research verifiable and reproducible.",
+        "description": "DataverseNL is a service for publishing research data. It is the preferred data repository for researchers of the UMC Utrecht to publish datasets of finished parts of studies or research projects. By making your research data accessible via DataverseNL you meet the requirements of funders and of the UMCU research policy. Other researchers will be able to find your dataset through most commonly used search engines. This allows researchers to use the data for new research and makes published research verifiable and reproducible.",
 	    "accessibility": "Personal UMCU computer (Windows), Personal UMCU computer (Mac), Virtual Workplace, Proces PC",
         "costs": "Centrally financed (DIT)",
         "sharepoint": "https://umcutrecht.sharepoint.com/sites/M365-onderzoek/SitePages/Dataverse.aspx"   
