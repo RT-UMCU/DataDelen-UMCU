@@ -37,6 +37,13 @@
         box-shadow: 0 0 10px #6e6e6e;
         }
 
+        .question {
+            margin: 0px 0; 
+            padding: 0px;  
+        }
+
+
+
     </style>
 </head>
 
@@ -48,7 +55,7 @@
         <div id="applications" class="">
             <!-- applications.json will be rendered here -->
         </div>
-        <div id="information" class="">
+        <div id="information"><strong>Click on one of the application buttons for more information about the specific application!</strong></div>
         </div>
     </div>
     <script>
@@ -61,10 +68,10 @@
 
         function generateQuestionsHtml(data) {
             data.forEach((question, index) => {
-                const div = $('<div>').append($('<p>', { class: "fw-bold" }).text(question.question));
-                const ul = $('<ul>', { class: "p-0 list-unstyled" });
+                    const div = $('<div>', { class: "question-container" }).append($('<p>', { class: "fw-bold question" }).text(question.question));
+                    const ul = $('<ul>', { class: "p-0 list-unstyled" });
 
-                question.options.forEach((option) => {
+            question.options.forEach((option) => {
                     const input = $('<input>', { type: "radio", class: "me-2", name: "question" + (index + 1), value: `q${index + 1}_${option.value}` }).click(checkAllowedApplications);
                     const span = $('<span>').text(option.text)
                     ul.append($('<li>').append($('<label>').append(input).append(span)));
