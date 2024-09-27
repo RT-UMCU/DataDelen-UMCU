@@ -1,0 +1,95 @@
+[
+    {
+        "question": "What type of data storage are you looking for?",
+        "options": [
+        {
+            "value": "Active research",
+            "text": "Active research"
+        }, {
+            "value": "Preservation/Archiving",
+            "text": "Preservation/Archiving"
+        }]
+    },
+    {
+        "question": "Who do you want to share data with?",
+        "options": [
+        {
+            "value": "Only for personal use",
+            "text": "Only for personal use"
+        }, {
+            "value": "Only with UMCU colleague(s)",
+            "text": "Only with UMCU colleague(s)"
+        }, {
+            "value": "With external parties",
+            "text": "With external parties"
+        }, {
+            "value": "Open data sharing",
+            "text": "Open data sharing"
+        }]
+    },
+    {
+        "question": "How often do you want to share data?",
+        "options": [
+        {
+            "value": "One-time",
+            "text": "One-time"
+        }, {
+            "value": "Structural/Recurring",
+            "text": "Structural/Recurring"
+        }]
+    },
+    {
+        "question": "Do you want to collaborate on the same data or is a copy sufficient?",
+        "options": [
+        {
+            "value": "Copy",
+            "text": "Copy"
+        }, {
+            "value": "One source",
+            "text": "One source"
+        }]
+    },
+    {
+        "question": "Do you want to retain control of the data?",
+        "options": [
+        {
+            "value": "Yes",
+            "text": "Yes"
+        }, {
+            "value": "No",
+            "text": "No"
+        }]
+    },
+    {
+        "question": "What type of data are you working with?",
+        "options": [
+        {
+            "value": "Non-personal",
+            "text": "Non-personal"
+        }, {
+            "value": "Personal",
+            "text": "Personal"
+        }]
+    },
+    {
+
+        "question": "What is the size of the data?",
+        "options": [
+        {
+            "value": "<25MB",
+            "text": "<25MB"
+        }, {
+            "value": "Up to 2 GB",
+            "text": "Up to 2 GB"
+        }, {
+            "value": "Up to 25 GB",
+            "text": "Up to 25 GB"
+        }, {
+            "value": "Up to 1 TB",
+            "text": "Up to 1 TB"
+        }, {
+            "value": "Unlimited",
+            "text": "Unlimited"
+        }]
+    }
+]

@@ -1,0 +1,213 @@
+[
+    {
+        "application": "Email with attachment",
+        "image": "https://iili.io/dg4Sus9.png",
+        "allowedOptions": [
+            "q1_Active research",
+            "q2_With external parties",
+            "q2_Open data sharing",
+            "q2_Only with UMCU colleague(s)",
+            "q3_One-time",
+            "q4_Copy",
+            "q5_No",
+            "q6_Non-personal",
+            "q7_<25MB"
+        ],
+        "description": "Email is one of our most important communication tools. Through the email system of UMC Utrecht, you can send files up to 5 MB to external recipients, while internally you can send files up to 10 MB. Outlook is the program we use to send and receive emails.",
+	    "accessibility": "Personal UMCU computer (Windows), Personal UMCU computer (Mac), Virtual Workplace, Proces PC",
+        "costs": "Free",
+        "sharepoint": "https://umcutrecht.sharepoint.com/sites/TOPIC_Servicecenter/SitePages/E-mail.aspx"     
+    },
+    {
+        "application": "SURF filesender without encryption",
+        "image": "https://iili.io/JNMY1B2.png",
+        "allowedOptions": [
+            "q1_Active research",
+            "q2_With external parties",
+            "q2_Only with UMCU colleague(s)",
+            "q3_Structural/Recurring",
+            "q4_One source",
+            "q5_Yes",
+            "q6_Non-personal",
+            "q7_Up to 1 TB",
+            "q7_<25MB",
+            "q7_Up to 2 GB",
+            "q7_Up to 25 GB"
+        ],
+        "description": "SURFfilesender is a web application that allows you to securely send large files. You can send the files encrypted and there is also the option to send a link to someone who wants to share files with you in a secure manner, but who does not have access to SURFfilesender. It is therefore a safe alternative for tools such as WeTransfer, which should not be used for research data.",
+	    "accessibility": "Personal UMCU computer (Windows), Personal UMCU computer (Mac), Virtual Workplace, Proces PC",
+        "costs": "Free",
+        "sharepoint": "https://umcutrecht.sharepoint.com/sites/M365-onderzoek/SitePages/SURFfilesender.aspx"   
+    },
+    {
+        "application": "SURF filesender with encryption",
+        "image": "https://iili.io/JNMYE1S.png",
+        "allowedOptions": [
+            "q1_Active research",
+            "q2_With external parties",
+            "q2_Only with UMCU colleague(s)",
+            "q3_Structural/Recurring",
+            "q4_One source",
+            "q5_Yes",
+            "q6_Non-personal",
+            "q6_Non-personal",
+            "q7_Up to 1 TB",
+            "q7_<25MB",
+            "q7_Up to 2 GB",
+            "q7_Up to 25 GB"
+        ],
+        "description": "SURFfilesender is a web application that allows you to securely send large files. You can send the files encrypted and there is also the option to send a link to someone who wants to share files with you in a secure manner, but who does not have access to SURFfilesender. It is therefore a safe alternative for tools such as WeTransfer, which should not be used for research data.",
+	    "accessibility": "Personal UMCU computer (Windows), Personal UMCU computer (Mac), Virtual Workplace, Proces PC",
+        "costs": "Free",
+        "sharepoint": "https://umcutrecht.sharepoint.com/sites/M365-onderzoek/SitePages/SURFfilesender.aspx"   
+    },
+    {
+        "application": "SURFdrive",
+        "image": "https://iili.io/dsYhdjn.png",
+        "allowedOptions": [
+            "q1_Active research",
+            "q2_With external parties",
+            "q2_Open data sharing",
+            "q2_Only with UMCU colleague(s)",
+            "q2_Only for personal use",
+            "q3_Structural/Recurring",
+            "q4_One source",
+            "q5_Yes",
+            "q6_Non-personal",
+            "q6_Personal",
+            "q7_Up to 1 TB",
+            "q7_<25MB",
+            "q7_Up to 2 GB",
+            "q7_Up to 25 GB"
+        ],
+	    "description": "SURFdrive is a personal cloud storage service that allows you to easily store, synchronise and share files (also with external parties). It is an alternative to tools such as Dropbox and Google Drive. You can use your UMC Utrecht user name and password to log into SURFdrive. This service is provided by SURFnet in the Netherlands and so the files on SURFnet will also be stored in the Netherlands.",
+	    "accessibility": "Personal UMCU computer (Windows), Personal UMCU computer (Mac), Virtual Workplace, Proces PC",
+        "costs": "Centrally financed (DIT)",
+        "sharepoint": "https://umcutrecht.sharepoint.com/sites/M365-onderzoek/SitePages/SURFdrive.aspx"        
+    },
+    {
+        "application": "Research Folder Structure (RFS)",
+        "image": "https://iili.io/JNMYW7e.png",
+        "allowedOptions": [
+            "q1_Active research",
+            "q2_Only with UMCU colleague(s)",
+            "q3_Structural/Recurring",
+            "q4_One source",
+            "q5_No",
+            "q6_Non-personal",
+            "q6_Personal",
+            "q7_<25MB",
+            "q7_Up to 2 GB",
+            "q7_Up to 25 GB"
+        ],
+        "description": "The Research Folder Structure (RFS) is a folder on the UMC Utrecht network drive with a fixed structure. The RFS provides transparency on what has been done in the different stages of a particular study and where data and documents are stored. It enables you to comply with the UMCU research data management policy, GCP and GDPR (AVG), because of the differentiated access to the different folders.",
+	    "accessibility": "Personal UMCU computer (Windows), Personal UMCU computer (Mac), Virtual Workplace, Proces PC",
+        "costs": "Cost covered by division, could be passed on to researchers",
+        "sharepoint": "https://umcutrecht.sharepoint.com/sites/M365-onderzoek/SitePages/Research-Folder-Structure.aspx"   
+    },
+    {
+        "application": "Digital Research Environment (DRE)",
+        "image": "https://iili.io/JNMYcX4.png",
+        "allowedOptions": [
+            "q1_Active research",
+            "q2_With external parties",
+            "q2_Only with UMCU colleague(s)",
+            "q3_Structural/Recurring",
+            "q4_One source",
+            "q5_Yes",
+            "q6_Non-personal",
+            "q6_Personal",
+            "q7_Up to 1 TB",
+            "q7_<25MB",
+            "q7_Up to 2 GB",
+            "q7_Up to 25 GB",
+            "q7_Unlimited"
+        ],
+        "description": "The Digital Research Environment (DRE) makes collaboration with fellow researchers within and outside the UMCU safe, easy and efficient. Data always remains in-house, but it is possible for external parties to gain access to your research group’s workspace. This is a secure cloud environment. After logging in, all authorized members have access to the stored data, analysis tools, computing power and storage capacity.",
+	    "accessibility": "Personal UMCU computer (Windows), Personal UMCU computer (Mac), Virtual Workplace, Proces PC",
+        "costs": "For very workspace, 36 euro per month is covered by the UMC. Other cost are passod on to a cost center given by the accountable of the workspace.",
+        "sharepoint": "https://umcutrecht.sharepoint.com/sites/M365-onderzoek/SitePages/Werken-aan-data-in-DRE-workspaces.aspx"   
+    },
+    {
+        "application": "DataverseNL",
+        "image": "https://iili.io/JhmfvUl.png",
+        "allowedOptions": [
+            "q1_Active research",
+            "q2_With external parties",
+            "q2_Open data sharing",
+            "q2_Only with UMCU colleague(s)",
+            "q3_Structural/Recurring",
+            "q4_Copy",
+            "q5_No",
+            "q6_Non-personal",
+            "q6_Personal",
+            "q7_<25MB",
+            "q7_Up to 2 GB",
+            "q7_Up to 25 GB"
+        ],
+        "description": "DataverseNL is a service for publishing research data. It is the preferred data repository for researchers of the UMC Utrecht to publish datasets of finished parts of studies or research projects. DataverseNL is used by most Dutch universities and other research institutes. It is hosted by DANS (Data Archiving and Networked Services), an institute of the KNAW (Royal Academy of Sciences) and NWO. Dataverse is open source software developed by Harvard University. By making your research data accessible via DataverseNL you meet the requirements of funders and of the UMCU research policy. Other researchers will be able to find your dataset through most commonly used search engines. This allows researchers to use the data for new research and makes published research verifiable and reproducible.",
+	    "accessibility": "Personal UMCU computer (Windows), Personal UMCU computer (Mac), Virtual Workplace, Proces PC",
+        "costs": "Centrally financed (DIT)",
+        "sharepoint": "https://umcutrecht.sharepoint.com/sites/M365-onderzoek/SitePages/Dataverse.aspx"   
+    },
+    {
+        "application": "Archivemetica",
+        "image": "https://iili.io/JhmlBxs.png",
+        "allowedOptions": [
+            "q1_Preservation/Archiving",
+            "q3_Structural/Recurring",
+            "q4_Copy",
+            "q5_Yes",
+            "q6_Non-personal",
+            "q6_Personal",
+            "q7_<25MB",
+            "q7_Up to 2 GB",
+            "q7_Up to 25 GB"
+        ],
+        "description": "The research archive of the UMCU, based on the Archivematica software, is a service for archiving the folders of finished research projects (clinical or pre-clinical studies, PhD projects, student projects, etcetera). ",
+	    "accessibility": "Personal UMCU computer (Windows), Personal UMCU computer (Mac), Virtual Workplace, Proces PC",
+        "costs": "Cost covered by division, could be passed on to researchers",
+        "sharepoint": "https://umcutrecht.sharepoint.com/sites/M365-onderzoek/SitePages/Archivematica.aspx"   
+    },
+    {
+        "application": "Onedrive/Teams/SharePoint",
+        "image": "https://iili.io/Jhmz8Bt.png",
+        "allowedOptions": [
+            "q1_Active research",
+            "q2_Only with UMCU colleague(s)",
+            "q2_Only for personal use",
+            "q3_Structural/Recurring",
+            "q3_One-time",
+            "q4_One source",
+            "q5_Yes",
+            "q6_Non-personal",
+            "q7_<25MB",
+            "q7_Up to 2 GB",
+            "q7_Up to 25 GB"
+        ],
+        "description": "OneDrive is part of Office 365 and provides an online location (in the Cloud) where files can be stored, shared, and synchronized. The files can be edited and shared from any device. OneDrive is linked to your personal UMC Utrecht profile and will be deactivated if you, for example, leave the organization. By default, everything you put in OneDrive is only shared with you, but it is possible to share your documents with others in your organization. For example, you can share your personal development plan with your supervisor.",
+	    "accessibility": "Personal UMCU computer (Windows), Personal UMCU computer (Mac), Virtual Workplace, Proces PC",
+        "costs": "Free",
+        "sharepoint": "https://umcutrecht.sharepoint.com/sites/M365-FAQ/SitePages/Veelgestelde-vragen-OneDrive.aspx"   
+    },
+    {
+        "application": "Networkdrives (E.g. G:\\, N:\\)",
+        "image": "https://iili.io/dsD5Jja.png",
+        "allowedOptions": [
+            "q1_Active research",
+            "q2_Only with UMCU colleague(s)",
+            "q3_Structural/Recurring",
+            "q3_One-time",
+            "q4_One source",
+            "q5_No",
+            "q6_Non-personal",
+            "q7_<25MB",
+            "q7_Up to 2 GB",
+            "q7_Up to 25 GB"
+        ],
+        "description": "There are multiple networkdrive avaible for UMCU employees. For example: G:\\ (division drive), N:\\ (general drive).",
+	    "accessibility": "Personal UMCU computer (Windows), Personal UMCU computer (Mac), Virtual Workplace, Proces PC",
+        "costs": "Depends on the network drive",
+        "sharepoint": "https://umcutrecht.sharepoint.com/sites/TOPIC_Servicecenter/SitePages/Grote-bestanden-versturen.aspx"   
+    }
+]
