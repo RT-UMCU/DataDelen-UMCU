@@ -1,41 +1,30 @@
 [
     {
-        "question": "What type of data storage are you looking for?",
-        "options": [
-        {
-            "value": "Active research",
-            "text": "Active research"
-        }, {
-            "value": "Preservation/Archiving",
-            "text": "Preservation/Archiving"
-        }]
-    },
-    {
         "question": "Who do you want to share data with?",
         "options": [
         {
-            "value": "Only for personal use",
-            "text": "Only for personal use"
+            "value": "For personal use",
+            "text": "For personal use"
         }, {
-            "value": "Only with UMCU colleague(s)",
-            "text": "Only with UMCU colleague(s)"
+            "value": "With UMCU colleague(s)",
+            "text": "With UMCU colleague(s)"
         }, {
             "value": "With external parties",
             "text": "With external parties"
         }, {
-            "value": "Open data sharing",
-            "text": "Open data sharing"
+            "value": "With everyone (open data sharing)",
+            "text": "With everyone (open data sharing)"
         }]
     },
     {
-        "question": "How often do you want to share data?",
+        "question": "Do you need to structurally work on the data?",
         "options": [
         {
-            "value": "One-time",
-            "text": "One-time"
+            "value": "Yes",
+            "text": "Yes"
         }, {
-            "value": "Structural/Recurring",
-            "text": "Structural/Recurring"
+            "value": "No",
+            "text": "No"
         }]
     },
     {
@@ -50,26 +39,18 @@
         }]
     },
     {
-        "question": "Do you want to retain control of the data?",
-        "options": [
-        {
-            "value": "Yes",
-            "text": "Yes"
-        }, {
-            "value": "No",
-            "text": "No"
-        }]
-    },
-    {
         "question": "What type of data are you working with?",
         "options": [
         {
-            "value": "Non-personal",
-            "text": "Non-personal"
+            "value": "Public",
+            "text": "Public (non-personal, non-sensitive)"
         }, {
-            "value": "Personal",
-            "text": "Personal"
-        }]
+            "value": "Confidential and pseudonimized",
+            "text": "Confidential and pseudonimized"
+        }, {
+			"value": "Confidential and unpseudononimized",
+            "text": "Confidential and unpseudononimized"
+		}]
     },
     {
 
@@ -79,17 +60,14 @@
             "value": "<25MB",
             "text": "<25MB"
         }, {
-            "value": "Up to 2 GB",
-            "text": "Up to 2 GB"
-        }, {
             "value": "Up to 25 GB",
             "text": "Up to 25 GB"
         }, {
             "value": "Up to 1 TB",
             "text": "Up to 1 TB"
         }, {
-            "value": "Unlimited",
-            "text": "Unlimited"
+            "value": "More than 1 TB",
+            "text": "More than 1 TB"
         }]
     }
 ]
